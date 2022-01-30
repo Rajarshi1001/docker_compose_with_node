@@ -31,8 +31,6 @@ app.post('/item/add', (req, res) => {
 
   newUser.save().then(user => res.redirect('/'));
 });
-app
-
 
 const PORT = 3000;
 app.listen(PORT, () => console.log(`Server started running on port ${PORT}`));
