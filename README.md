@@ -9,7 +9,7 @@ Dockerfile, dockercompose.yaml and the .dockerignore file. I have also mentioned
 the possible errors that might occur on running __docker compose up__ on your system 
 for the first time.
  
-### First run the following command inside the directory (__express_try__) to install the node_modules folder which contains the necessary packages and dependencies.
+#### First run the following command inside the directory (__express_try__) to install the node_modules folder which contains the necessary packages and dependencies.
 
 ```
 npm install
