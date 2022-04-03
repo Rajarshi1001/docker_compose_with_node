@@ -1,10 +1,10 @@
 ## This is a simple express app to demonstrate docker-compose.
 
 This helps you get acquainted with the powers of Docker-Compose. I have also
-written a blog based on this proivding detailed instructions to spin up the 
-application and the Mongo Containers.
+written a blog based on this providing detailed instructions to spin up the 
+application and the Mongo Container.
 
-Inorder to follow the instructions as mentioned in the medium blog, first delete
+Inorder to follow the instructions as mentioned in the Medium blog, first delete
 Dockerfile, dockercompose.yaml and the .dockerignore file. I have also mentioned
 the possible errors that might occur on running __docker compose up__ on your system 
 for the first time.
